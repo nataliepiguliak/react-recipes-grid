@@ -1,0 +1,11 @@
+{
+  "name": "react-recipes-grid",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "npm start --prefix server",
+    "client": "npm start --prefix client"
+  },
+  "author": "Natalie Piguliak",
+  "license": "ISC"
+}
